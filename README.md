@@ -51,9 +51,22 @@ AWS Glue DataBrew
 
 AWS QuickSight
 
-Python (Pandas, NumPy, Matplotlib, Seaborn) 
+Athena (SQL)
 
-SQL (Athena) 
+
+**Deliverables**
+Cleaned and structured dataset stored in AWS S3.
+
+Descriptive analysis report summarizing key findings.
+
+Interactive dashboards in AWS QuickSight showing water quality trends.
+
+Actionable insights and recommendations for city authorities to improve water quality monitoring.
+
+
+
+
+
 
 
 
