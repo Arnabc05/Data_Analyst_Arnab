@@ -65,7 +65,21 @@ Actionable insights and recommendations for city authorities to improve water qu
 
 
 
+**Desciptive Analysis**
+Descriptive evaluation includes summarizing and decoding raw statistics to discover patterns, developments, and insights. It presents a excessive-degree view of the dataset via measuring key records such as suggest, median, standard deviation, and distribution of variables. In the context of the operating-lets in-water-systems-water-quality-reviews.csv dataset, descriptive evaluation allows understand the characteristics of water first-class indicators and allow statuses throughout extraordinary regions.
 
+**Objective**
+The objective of the descriptive analysis is to summarize key dataset features, including turbidity levels, pH values, and permit statuses. It aims to identify central tendencies (mean, median, mode) and dispersion (variance, standard deviation) of water quality parameters, detect outliers and anomalies, and explore relationships between different attributes, such as regional differences in water quality.
+
+**Methodlogy**
+
+**Data Profiling**
+
+The dataset's structure is analyzed by identifying column types, missing values, and unique counts. Additionally, inconsistencies such as duplicate records or incorrect data formats are checked to ensure data quality and accuracy.
+
+**Stastical Summery**
+
+A statistical Summary is generated via computing key metrics for numerical variables like turbidity and pH stages, at the same time as frequency distributions are used to investigate categorical variables together with allow frame.
 
 
 
