@@ -81,6 +81,14 @@ The dataset's structure is analyzed by identifying column types, missing values,
 
 A statistical Summary is generated via computing key metrics for numerical variables like turbidity and pH stages, at the same time as frequency distributions are used to investigate categorical variables together with allow frame.
 
+**Visualization**
+
+Visualization techniques encompass histograms and boxplots to analyze the distribution of water satisfactory parameters, time series graphs to tune developments through the years, bar charts for nearby comparisons, and heatmaps to expose correlations between specific water exceptional signs.
+
+**Key Insights from Descriptive Analysis**
+
+It exhibits standard water great conditions, seasonal and local versions, and capacity anomalies that may imply statistics first-class problems or pollutants events requiring regulatory interest.
+
 
 
 
