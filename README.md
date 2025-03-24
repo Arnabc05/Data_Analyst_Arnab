@@ -1,8 +1,6 @@
-# Data_Analyst_Arnab
 **Exploratory Data Analysis for the CIty of Vancouver**
 
 **Project Description**- The projects outlined attention on diverse information evaluation and facts pleasant tasks, inclusive of statistics profiling for the City of Vancouver's datasets. Descriptive evaluation is used to broaden a facts analytics platform for the City of Vancouver, and facts wrangling is emphasised to clean and remodel customer statistics for stepped forward analytics. A Data Quality Control framework is proposed to make certain information accuracy and consistency throughout companies. These tasks intention to provide actionable insights, improve decision-making, and ensure quality statistics for ongoing analysis.
-
 
 **Objective**- To design and implement a data analytic platform to guide descriptive evaluation for the City of Vancouver. This entails gaining insights into numerous components, along with environmental tracking.
 
@@ -62,6 +60,7 @@ Descriptive analysis report summarizing key findings.
 Interactive dashboards in AWS QuickSight showing water quality trends.
 
 Actionable insights and recommendations for city authorities to improve water quality monitoring.
+![image](https://github.com/user-attachments/assets/78b53bb1-0ce7-406b-8f39-02519c5d5c13)
 
 
 
@@ -73,11 +72,11 @@ The objective of the descriptive analysis is to summarize key dataset features, 
 
 **Methodlogy**
 
-**Data Profiling**
+**1.** **Data Profiling**
 
 The dataset's structure is analyzed by identifying column types, missing values, and unique counts. Additionally, inconsistencies such as duplicate records or incorrect data formats are checked to ensure data quality and accuracy.
 
-**Stastical Summery**
+**2** **Stastical Summery**
 
 A statistical Summary is generated via computing key metrics for numerical variables like turbidity and pH stages, at the same time as frequency distributions are used to investigate categorical variables together with allow frame.
 
@@ -85,12 +84,24 @@ A statistical Summary is generated via computing key metrics for numerical varia
 
 Visualization techniques encompass histograms and boxplots to analyze the distribution of water satisfactory parameters, time series graphs to tune developments through the years, bar charts for nearby comparisons, and heatmaps to expose correlations between specific water exceptional signs.
 
-**Key Insights from Descriptive Analysis**
+**Key Insights**
 
-It exhibits standard water great conditions, seasonal and local versions, and capacity anomalies that may imply statistics first-class problems or pollutants events requiring regulatory interest.
+Descriptive analysis reveals typical water quality conditions, seasonal and regional variations, and potential anomalies that may indicate data quality issues or pollution events requiring regulatory attention.
+
+**Deliverables**
+
+A summary report of key statistics and trends.
+
+Visualizations illustrating patterns and distributions in water quality parameters.
+
+Identification of areas needing further diagnostic analysis to investigate potential causes of water quality variations.
+
+![image](https://github.com/user-attachments/assets/d731f34d-2ca2-4a92-8a6a-a9959255871d)
 
 
+**Conclusion**
 
+The descriptive and exploratory analyses provide valuable insights into water quality trends, regional disparities, and potential anomalies. Descriptive analysis establishes a baseline understanding of key parameters like turbidity and pH, highlighting central tendencies, variability, and distributions. Exploratory analysis further uncovers patterns, such as seasonal fluctuations, correlations between indicators, and the impact of permit status on water quality. Identifying outliers and inconsistencies helps in improving data quality and detecting possible pollution events. These findings support data-driven decision-making for regulatory interventions and long-term water quality management.
 
 
 
